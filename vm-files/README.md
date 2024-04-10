@@ -7,4 +7,7 @@
 - https://raw.githubusercontent.com/vaishnavucv/cybersecurity-note/main/vm-files/vm-key.txt
 # 7-Zip
 - https://github.com/vaishnavucv/cybersecurity-note/raw/main/vm-files/7z2301-x64.exe
--
+# Kali Linux - login credentials 
+- username: ```kali``` password: ```kali```
+# Things that you need to do after install/Poweron Kali Linux
+- [Todo-after-having-kali-linux.pdf]()
