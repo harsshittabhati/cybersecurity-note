@@ -2,8 +2,12 @@
 # VMware Workstation 17 Pro 
 - https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html
 
+# Virtual Box
+- https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe
+
 # Kali Linux
 - [kali Linux for => VMware](https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-vmware-amd64.7z)
+- Download Kali linux VM file according to VM Application installed in win/Mac/Ubuntu.
 - [Kali Linux for => VirtualBox](https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-virtualbox-amd64.7z)
 
 # VMware key
